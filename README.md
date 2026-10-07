@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 ---
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22个单一用途 Telegram 机器人：匿名信箱、派对游戏、账单分摊、习惯打卡、提醒、专注计时等。
 
 ## 📌 项目说明
 
